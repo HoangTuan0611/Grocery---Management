@@ -1,0 +1,508 @@
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Documents\Visual Studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Documents\Visual Studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Documents\Visual Studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmNhanVien.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\ThaiHung\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Dang Nguyen Soai\Desktop\QLTH (2)\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\Sqlhelper.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\stdole.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmRPCTHD.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.Cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\FlashControlV71.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\Sqlhelper.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\stdole.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\ShockwaveFlashObjects.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\stdole.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojAssemblyReference.cache
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmRPCTHD.resources
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.cache
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CoreCompileInputs.cache
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CopyComplete
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportSource.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.Shared.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\FlashControlV71.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\ShockwaveFlashObjects.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\stdole.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojAssemblyReference.cache
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.cache
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CoreCompileInputs.cache
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CopyComplete
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.ResolveComReference.cache
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\stdole.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojAssemblyReference.cache
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.ResolveComReference.cache
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.cache
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CoreCompileInputs.cache
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CopyComplete
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmNhanVien.resources
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\FlashControlV71.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\ShockwaveFlashObjects.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\stdole.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojAssemblyReference.cache
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.ResolveComReference.cache
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmNhanVien.resources
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.cache
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CoreCompileInputs.cache
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CopyComplete
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe.config
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.exe
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoa.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\ShockwaveFlashObjects.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\stdole.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaBUS.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaDAL.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\bin\Debug\QuanLyTapHoaEmtity.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csprojAssemblyReference.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.ResolveComReference.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmChinh.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmDangNhap.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHang.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHoaDon.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmHT.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmKhachHang.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.FrmNhanVien.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.Properties.Resources.resources
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.GenerateResource.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CoreCompileInputs.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.csproj.CopyComplete
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.exe
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoa\obj\Debug\QuanLyTapHoa.pdb

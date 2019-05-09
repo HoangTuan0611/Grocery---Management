@@ -1,0 +1,163 @@
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+c:\users\dang nguyen soai\documents\visual studio 2015\Projects\QuanLyTapHoa\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Downloads\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Anh\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\ThaiHung\Desktop\QLTH\Desktop\Desktop\QuanLyTapHoa-Mini(DEMO)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (1)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojResolveAssemblyReference.cache
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Dang Nguyen Soai\Desktop\QuanLyTapHoa-MiniMAIN (co rp)\QuanLyTapHoa-Mini(MAIN)\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojAssemblyReference.cache
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CoreCompileInputs.cache
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CopyComplete
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+G:\Demo\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojAssemblyReference.cache
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CoreCompileInputs.cache
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CopyComplete
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+G:\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojAssemblyReference.cache
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CoreCompileInputs.cache
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CopyComplete
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+C:\Users\Van Cuong\Downloads\Final\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojAssemblyReference.cache
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CoreCompileInputs.cache
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CopyComplete
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+D:\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaBUS.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaDAL.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\bin\Debug\QuanLyTapHoaEmtity.pdb
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csprojAssemblyReference.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CoreCompileInputs.cache
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.csproj.CopyComplete
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.dll
+D:\ĐH UIT\Học kì 3\Lập trình trực quan\Đồ án cuối kì Trực quan\QuanLyTapHoa Mini\QuanLyTapHoaBUS\obj\Debug\QuanLyTapHoaBUS.pdb
